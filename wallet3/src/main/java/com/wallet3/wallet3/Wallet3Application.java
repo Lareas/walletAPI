@@ -1,13 +1,13 @@
-package com.wallet.wallet;
+package com.wallet3.wallet3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WalletApplication {
+public class Wallet3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WalletApplication.class, args);
+		SpringApplication.run(Wallet3Application.class, args);
 	}
 
 }
